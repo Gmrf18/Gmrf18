@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi there! I'm Gerardo
 
-<!--
-**Gmrf18/Gmrf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Always looking for personal and professional growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I like working with people whose premise is respect, loyalty and commitment.
+
+🌱 I like to know a little bit of everything, but I find it quite good to specialize in something.
+
+My Tech Stack
+Tools, languages, and other things that I like to work with.
+
+Angular	TypeScript	RxJS	React	NX	JavaScript	React Native	Flutter	Dart
+NestJS	Redux	Firebase	MongoDB	Node.js	Python	Spring Framework	Jest	Docker
