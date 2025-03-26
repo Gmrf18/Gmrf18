@@ -10,5 +10,5 @@
 My Tech Stack
 Tools, languages, and other things that I like to work with.
 
-Angular	TypeScript	RxJS	React	NX	JavaScript	React Native	Flutter	Dart
-NestJS	Redux	Firebase	MongoDB	Node.js	Python	Spring Framework	Jest	Docker
+Angular	TypeScript	RxJS	React	NX	JavaScript	React Native
+NestJS	Redux	Firebase	MongoDB	Node.js Framework	Jest	Docker
